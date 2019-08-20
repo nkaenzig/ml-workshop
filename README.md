@@ -2,9 +2,9 @@
 
 ## Install Python
 ### Windows & Mac OSX:
-1. Download Miniconda (Python 3.7, 64bit) 
-.exe Installer for Windows (Check "Add Anaconda to my PATH environment variable" (Windows only))
-.pkg Installer for Mac
+1. Download Miniconda (Python 3.7, 64bit) <br />
+.exe Installer for Windows (Check "Add Anaconda to my PATH environment variable" (Windows only))<br />
+.pkg Installer for Mac<br />
 https://docs.conda.io/en/latest/miniconda.html
 
 2. Open Anaconda Prompt or CMD
