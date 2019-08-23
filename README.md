@@ -17,6 +17,7 @@ conda install jupyter
 conda install virtualenv
 
 # linux
+apt-get -y install ipython ipython-notebook
 pip3 install jupyter
 pip3 install virtualenv
 ```
@@ -62,12 +63,15 @@ sudo apt-get install python3.7
 ```sh
 # on windows
 call ml-workshop-env\Scripts\activate
-
-# on mac
-source ml-workshop-env/bin/activate
-
 pip install ipykernel
 ipython kernel install --user --name=ml-workshop-env
+
+# on mac/linux
+source ml-workshop-env/bin/activate
+pip3 install ipykernel
+ipython kernel install --user --name=ml-workshop-env
+
+
 ```
 
 
