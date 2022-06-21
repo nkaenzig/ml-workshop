@@ -1,7 +1,7 @@
 ipykernel==5.1.2
 matplotlib==3.1.1
 missingno==0.4.2
-numpy==1.17.0
+numpy==1.22.0
 pandas==0.25.0
 scikit-learn==0.21.3
 seaborn==0.9.0
